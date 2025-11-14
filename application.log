@@ -1,0 +1,125 @@
+2025-11-14 17:31:09,724  INFO [main] LogUtils:26 -  AUTOMATION_LOG: ==> Browser name: chrome
+2025-11-14 17:31:13,786  INFO [main] LogUtils:26 -  AUTOMATION_LOG: ==> osName: Mac OS X
+2025-11-14 17:31:18,545  INFO [main] LogUtils:26 -  AUTOMATION_LOG: ==> email Id entered
+2025-11-14 17:31:18,737  INFO [main] LogUtils:26 -  AUTOMATION_LOG: ==> email Id entered
+2025-11-14 17:31:21,443  INFO [main] LogUtils:26 -  AUTOMATION_LOG: ==> Password entered
+2025-11-14 17:31:21,489  INFO [main] LogUtils:26 -  AUTOMATION_LOG: ==> Password entered
+2025-11-14 17:31:32,026  INFO [main] LogUtils:26 -  AUTOMATION_LOG: ==> Sign in button clicked
+2025-11-14 17:31:37,527  INFO [main] LogUtils:26 -  AUTOMATION_LOG: ==> Opened Website: https://ninja.sanity.turtle-feature.com/payouts-dashboard
+2025-11-14 17:31:37,569  INFO [main] LogUtils:26 -  AUTOMATION_LOG: ==> Clicked On Configure Rules Module
+2025-11-14 17:31:38,142  INFO [main] LogUtils:26 -  AUTOMATION_LOG: ==> Clicked On Payout Rule Tab
+2025-11-14 17:31:38,752  INFO [main] LogUtils:26 -  AUTOMATION_LOG: ==> Clicked On Test And Upload Tab
+2025-11-14 17:31:42,887  INFO [main] LogUtils:26 -  AUTOMATION_LOG: ==> Clicked on comment Text Box
+2025-11-14 17:31:42,951  INFO [main] LogUtils:26 -  AUTOMATION_LOG: ==> Comment Entered
+2025-11-14 17:31:42,997  INFO [main] LogUtils:26 -  AUTOMATION_LOG: ==> Clicked on upload button
+2025-11-14 17:32:03,154  INFO [main] LogUtils:26 -  AUTOMATION_LOG: ==> Clicked on Start Test Button
+2025-11-14 17:32:23,262  INFO [main] LogUtils:26 -  AUTOMATION_LOG: ==> Review Report Checkbox clicked
+2025-11-14 17:32:23,303  INFO [main] LogUtils:26 -  AUTOMATION_LOG: ==> Push To Production button clicked
+2025-11-14 17:32:23,877  INFO [main] LogUtils:26 -  AUTOMATION_LOG: ==> Clicked on comment Text Box
+2025-11-14 17:32:23,924  INFO [main] LogUtils:26 -  AUTOMATION_LOG: ==> Comment Entered
+2025-11-14 17:32:23,972  INFO [main] LogUtils:26 -  AUTOMATION_LOG: ==> Clicked on Upload button
+2025-11-14 17:32:24,007  INFO [main] cluster:71 - Cluster created with settings {hosts=[localhost:27118], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2025-11-14 17:32:24,022  INFO [main] cluster:71 - Cluster description not yet available. Waiting for 30000 ms before timing out
+2025-11-14 17:32:24,070  INFO [cluster-ClusterId{value='69171a50679c4a67659d6ab0', description='null'}-localhost:27118] connection:71 - Opened connection [connectionId{localValue:1, serverValue:1455}] to localhost:27118
+2025-11-14 17:32:24,086  INFO [cluster-ClusterId{value='69171a50679c4a67659d6ab0', description='null'}-localhost:27118] cluster:71 - Monitor thread successfully connected to server with description ServerDescription{address=localhost:27118, type=REPLICA_SET_PRIMARY, state=CONNECTED, ok=true, version=ServerVersion{versionList=[8, 0, 6]}, minWireVersion=0, maxWireVersion=25, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=9685292, setName='b2c', canonicalAddress=mongo-b2c-0.mongo-b2c.sanity.svc.cluster.local:27017, hosts=[mongo-b2c-0.mongo-b2c.sanity.svc.cluster.local:27017], passives=[], arbiters=[], primary='mongo-b2c-0.mongo-b2c.sanity.svc.cluster.local:27017', tagSet=TagSet{[]}, electionId=7fffffff00000000000006b0, setVersion=6, lastWriteDate=Fri Nov 14 17:32:23 IST 2025, lastUpdateTimeNanos=111185537230583}
+2025-11-14 17:32:24,148  INFO [main] connection:71 - Opened connection [connectionId{localValue:2, serverValue:1456}] to localhost:27118
+2025-11-14 17:49:35,808  INFO [main] LogUtils:26 -  AUTOMATION_LOG: ==> Browser name: chrome
+2025-11-14 17:49:38,600  INFO [main] LogUtils:26 -  AUTOMATION_LOG: ==> osName: Mac OS X
+2025-11-14 17:49:43,795  INFO [main] LogUtils:26 -  AUTOMATION_LOG: ==> email Id entered
+2025-11-14 17:49:43,893  INFO [main] LogUtils:26 -  AUTOMATION_LOG: ==> email Id entered
+2025-11-14 17:49:46,605  INFO [main] LogUtils:26 -  AUTOMATION_LOG: ==> Password entered
+2025-11-14 17:49:46,652  INFO [main] LogUtils:26 -  AUTOMATION_LOG: ==> Password entered
+2025-11-14 17:49:56,953  INFO [main] LogUtils:26 -  AUTOMATION_LOG: ==> Sign in button clicked
+2025-11-14 17:50:02,923  INFO [main] LogUtils:26 -  AUTOMATION_LOG: ==> Opened Website: https://ninja.sanity.turtle-feature.com/payouts-dashboard
+2025-11-14 17:50:02,965  INFO [main] LogUtils:26 -  AUTOMATION_LOG: ==> Clicked On Configure Rules Module
+2025-11-14 17:50:03,532  INFO [main] LogUtils:26 -  AUTOMATION_LOG: ==> Clicked On Payout Rule Tab
+2025-11-14 17:50:04,126  INFO [main] LogUtils:26 -  AUTOMATION_LOG: ==> Clicked On Test And Upload Tab
+2025-11-14 17:50:08,291  INFO [main] LogUtils:26 -  AUTOMATION_LOG: ==> Clicked on comment Text Box
+2025-11-14 17:50:08,363  INFO [main] LogUtils:26 -  AUTOMATION_LOG: ==> Comment Entered
+2025-11-14 17:50:08,440  INFO [main] LogUtils:26 -  AUTOMATION_LOG: ==> Clicked on upload button
+2025-11-14 17:50:28,519  INFO [main] LogUtils:26 -  AUTOMATION_LOG: ==> Clicked on Start Test Button
+2025-11-14 17:50:48,619  INFO [main] LogUtils:26 -  AUTOMATION_LOG: ==> Review Report Checkbox clicked
+2025-11-14 17:50:48,659  INFO [main] LogUtils:26 -  AUTOMATION_LOG: ==> Push To Production button clicked
+2025-11-14 17:50:49,242  INFO [main] LogUtils:26 -  AUTOMATION_LOG: ==> Clicked on comment Text Box
+2025-11-14 17:50:49,279  INFO [main] LogUtils:26 -  AUTOMATION_LOG: ==> Comment Entered
+2025-11-14 17:50:49,328  INFO [main] LogUtils:26 -  AUTOMATION_LOG: ==> Clicked on Upload button
+2025-11-14 17:50:49,357  INFO [main] cluster:71 - Cluster created with settings {hosts=[localhost:27118], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2025-11-14 17:50:49,381  INFO [main] cluster:71 - Cluster description not yet available. Waiting for 30000 ms before timing out
+2025-11-14 17:50:49,424  INFO [cluster-ClusterId{value='69171ea1811bdc7396eb9607', description='null'}-localhost:27118] connection:71 - Opened connection [connectionId{localValue:1, serverValue:1469}] to localhost:27118
+2025-11-14 17:50:49,443  INFO [cluster-ClusterId{value='69171ea1811bdc7396eb9607', description='null'}-localhost:27118] cluster:71 - Monitor thread successfully connected to server with description ServerDescription{address=localhost:27118, type=REPLICA_SET_PRIMARY, state=CONNECTED, ok=true, version=ServerVersion{versionList=[8, 0, 6]}, minWireVersion=0, maxWireVersion=25, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=10497833, setName='b2c', canonicalAddress=mongo-b2c-0.mongo-b2c.sanity.svc.cluster.local:27017, hosts=[mongo-b2c-0.mongo-b2c.sanity.svc.cluster.local:27017], passives=[], arbiters=[], primary='mongo-b2c-0.mongo-b2c.sanity.svc.cluster.local:27017', tagSet=TagSet{[]}, electionId=7fffffff00000000000006b0, setVersion=6, lastWriteDate=Fri Nov 14 17:50:38 IST 2025, lastUpdateTimeNanos=112290873972291}
+2025-11-14 17:50:49,496  INFO [main] connection:71 - Opened connection [connectionId{localValue:2, serverValue:1470}] to localhost:27118
+2025-11-14 18:05:42,731  INFO [main] LogUtils:26 -  AUTOMATION_LOG: ==> Browser name: chrome
+2025-11-14 18:05:44,484  INFO [main] LogUtils:26 -  AUTOMATION_LOG: ==> osName: Mac OS X
+2025-11-14 18:05:48,762  INFO [main] LogUtils:26 -  AUTOMATION_LOG: ==> email Id entered
+2025-11-14 18:05:48,860  INFO [main] LogUtils:26 -  AUTOMATION_LOG: ==> email Id entered
+2025-11-14 18:05:51,559  INFO [main] LogUtils:26 -  AUTOMATION_LOG: ==> Password entered
+2025-11-14 18:05:51,601  INFO [main] LogUtils:26 -  AUTOMATION_LOG: ==> Password entered
+2025-11-14 18:06:01,649  INFO [main] LogUtils:26 -  AUTOMATION_LOG: ==> Sign in button clicked
+2025-11-14 18:06:07,074  INFO [main] LogUtils:26 -  AUTOMATION_LOG: ==> Opened Website: https://ninja.sanity.turtle-feature.com/payouts-dashboard
+2025-11-14 18:06:07,111  INFO [main] LogUtils:26 -  AUTOMATION_LOG: ==> Clicked On Configure Rules Module
+2025-11-14 18:06:07,683  INFO [main] LogUtils:26 -  AUTOMATION_LOG: ==> Clicked On Payout Rule Tab
+2025-11-14 18:06:08,289  INFO [main] LogUtils:26 -  AUTOMATION_LOG: ==> Clicked On Test And Upload Tab
+2025-11-14 18:06:12,426  INFO [main] LogUtils:26 -  AUTOMATION_LOG: ==> Clicked on comment Text Box
+2025-11-14 18:06:12,479  INFO [main] LogUtils:26 -  AUTOMATION_LOG: ==> Comment Entered
+2025-11-14 18:06:12,533  INFO [main] LogUtils:26 -  AUTOMATION_LOG: ==> Clicked on upload button
+2025-11-14 18:06:32,613  INFO [main] LogUtils:26 -  AUTOMATION_LOG: ==> Clicked on Start Test Button
+2025-11-14 18:06:52,696  INFO [main] LogUtils:26 -  AUTOMATION_LOG: ==> Review Report Checkbox clicked
+2025-11-14 18:06:52,744  INFO [main] LogUtils:26 -  AUTOMATION_LOG: ==> Push To Production button clicked
+2025-11-14 18:06:53,327  INFO [main] LogUtils:26 -  AUTOMATION_LOG: ==> Clicked on comment Text Box
+2025-11-14 18:06:53,375  INFO [main] LogUtils:26 -  AUTOMATION_LOG: ==> Comment Entered
+2025-11-14 18:06:53,425  INFO [main] LogUtils:26 -  AUTOMATION_LOG: ==> Clicked on Upload button
+2025-11-14 18:06:53,452  INFO [main] cluster:71 - Cluster created with settings {hosts=[localhost:27118], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2025-11-14 18:06:53,471  INFO [main] cluster:71 - Cluster description not yet available. Waiting for 30000 ms before timing out
+2025-11-14 18:06:53,520  INFO [cluster-ClusterId{value='69172265354fd84a69309a2c', description='null'}-localhost:27118] connection:71 - Opened connection [connectionId{localValue:1, serverValue:1475}] to localhost:27118
+2025-11-14 18:06:53,543  INFO [cluster-ClusterId{value='69172265354fd84a69309a2c', description='null'}-localhost:27118] cluster:71 - Monitor thread successfully connected to server with description ServerDescription{address=localhost:27118, type=REPLICA_SET_PRIMARY, state=CONNECTED, ok=true, version=ServerVersion{versionList=[8, 0, 6]}, minWireVersion=0, maxWireVersion=25, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=13246125, setName='b2c', canonicalAddress=mongo-b2c-0.mongo-b2c.sanity.svc.cluster.local:27017, hosts=[mongo-b2c-0.mongo-b2c.sanity.svc.cluster.local:27017], passives=[], arbiters=[], primary='mongo-b2c-0.mongo-b2c.sanity.svc.cluster.local:27017', tagSet=TagSet{[]}, electionId=7fffffff00000000000006b0, setVersion=6, lastWriteDate=Fri Nov 14 18:06:52 IST 2025, lastUpdateTimeNanos=113254963018625}
+2025-11-14 18:06:53,596  INFO [main] connection:71 - Opened connection [connectionId{localValue:2, serverValue:1476}] to localhost:27118
+2025-11-14 18:15:06,091  INFO [main] LogUtils:26 -  AUTOMATION_LOG: ==> Browser name: chrome
+2025-11-14 18:15:08,165  INFO [main] LogUtils:26 -  AUTOMATION_LOG: ==> osName: Mac OS X
+2025-11-14 18:15:13,082  INFO [main] LogUtils:26 -  AUTOMATION_LOG: ==> email Id entered
+2025-11-14 18:15:13,199  INFO [main] LogUtils:26 -  AUTOMATION_LOG: ==> email Id entered
+2025-11-14 18:15:16,445  INFO [main] LogUtils:26 -  AUTOMATION_LOG: ==> Password entered
+2025-11-14 18:15:16,487  INFO [main] LogUtils:26 -  AUTOMATION_LOG: ==> Password entered
+2025-11-14 18:15:26,791  INFO [main] LogUtils:26 -  AUTOMATION_LOG: ==> Sign in button clicked
+2025-11-14 18:15:32,216  INFO [main] LogUtils:26 -  AUTOMATION_LOG: ==> Opened Website: https://ninja.sanity.turtle-feature.com/payouts-dashboard
+2025-11-14 18:15:32,256  INFO [main] LogUtils:26 -  AUTOMATION_LOG: ==> Clicked On Configure Rules Module
+2025-11-14 18:15:32,829  INFO [main] LogUtils:26 -  AUTOMATION_LOG: ==> Clicked On Payout Rule Tab
+2025-11-14 18:15:33,425  INFO [main] LogUtils:26 -  AUTOMATION_LOG: ==> Clicked On Test And Upload Tab
+2025-11-14 18:15:37,560  INFO [main] LogUtils:26 -  AUTOMATION_LOG: ==> Clicked on comment Text Box
+2025-11-14 18:15:37,623  INFO [main] LogUtils:26 -  AUTOMATION_LOG: ==> Comment Entered
+2025-11-14 18:15:37,679  INFO [main] LogUtils:26 -  AUTOMATION_LOG: ==> Clicked on upload button
+2025-11-14 18:15:57,758  INFO [main] LogUtils:26 -  AUTOMATION_LOG: ==> Clicked on Start Test Button
+2025-11-14 18:16:17,847  INFO [main] LogUtils:26 -  AUTOMATION_LOG: ==> Review Report Checkbox clicked
+2025-11-14 18:16:17,897  INFO [main] LogUtils:26 -  AUTOMATION_LOG: ==> Push To Production button clicked
+2025-11-14 18:16:18,474  INFO [main] LogUtils:26 -  AUTOMATION_LOG: ==> Clicked on comment Text Box
+2025-11-14 18:16:18,520  INFO [main] LogUtils:26 -  AUTOMATION_LOG: ==> Comment Entered
+2025-11-14 18:16:18,567  INFO [main] LogUtils:26 -  AUTOMATION_LOG: ==> Clicked on Upload button
+2025-11-14 18:16:18,604  INFO [main] cluster:71 - Cluster created with settings {hosts=[localhost:27118], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2025-11-14 18:16:18,629  INFO [main] cluster:71 - Cluster description not yet available. Waiting for 30000 ms before timing out
+2025-11-14 18:16:18,680  INFO [cluster-ClusterId{value='6917249a60f007715ca60d6e', description='null'}-localhost:27118] connection:71 - Opened connection [connectionId{localValue:1, serverValue:1477}] to localhost:27118
+2025-11-14 18:16:18,704  INFO [cluster-ClusterId{value='6917249a60f007715ca60d6e', description='null'}-localhost:27118] cluster:71 - Monitor thread successfully connected to server with description ServerDescription{address=localhost:27118, type=REPLICA_SET_PRIMARY, state=CONNECTED, ok=true, version=ServerVersion{versionList=[8, 0, 6]}, minWireVersion=0, maxWireVersion=25, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=11455750, setName='b2c', canonicalAddress=mongo-b2c-0.mongo-b2c.sanity.svc.cluster.local:27017, hosts=[mongo-b2c-0.mongo-b2c.sanity.svc.cluster.local:27017], passives=[], arbiters=[], primary='mongo-b2c-0.mongo-b2c.sanity.svc.cluster.local:27017', tagSet=TagSet{[]}, electionId=7fffffff00000000000006b0, setVersion=6, lastWriteDate=Fri Nov 14 18:16:18 IST 2025, lastUpdateTimeNanos=113820103145500}
+2025-11-14 18:16:18,771  INFO [main] connection:71 - Opened connection [connectionId{localValue:2, serverValue:1478}] to localhost:27118
+2025-11-14 18:19:24,304  INFO [main] LogUtils:26 -  AUTOMATION_LOG: ==> Browser name: chrome
+2025-11-14 18:19:26,025  INFO [main] LogUtils:26 -  AUTOMATION_LOG: ==> osName: Mac OS X
+2025-11-14 18:19:30,693  INFO [main] LogUtils:26 -  AUTOMATION_LOG: ==> email Id entered
+2025-11-14 18:19:30,774  INFO [main] LogUtils:26 -  AUTOMATION_LOG: ==> email Id entered
+2025-11-14 18:19:33,484  INFO [main] LogUtils:26 -  AUTOMATION_LOG: ==> Password entered
+2025-11-14 18:19:33,528  INFO [main] LogUtils:26 -  AUTOMATION_LOG: ==> Password entered
+2025-11-14 18:19:44,036  INFO [main] LogUtils:26 -  AUTOMATION_LOG: ==> Sign in button clicked
+2025-11-14 18:19:49,442  INFO [main] LogUtils:26 -  AUTOMATION_LOG: ==> Opened Website: https://ninja.sanity.turtle-feature.com/payouts-dashboard
+2025-11-14 18:19:49,478  INFO [main] LogUtils:26 -  AUTOMATION_LOG: ==> Clicked On Configure Rules Module
+2025-11-14 18:19:50,054  INFO [main] LogUtils:26 -  AUTOMATION_LOG: ==> Clicked On Payout Rule Tab
+2025-11-14 18:19:50,651  INFO [main] LogUtils:26 -  AUTOMATION_LOG: ==> Clicked On Test And Upload Tab
+2025-11-14 18:19:54,785  INFO [main] LogUtils:26 -  AUTOMATION_LOG: ==> Clicked on comment Text Box
+2025-11-14 18:19:54,847  INFO [main] LogUtils:26 -  AUTOMATION_LOG: ==> Comment Entered
+2025-11-14 18:19:54,893  INFO [main] LogUtils:26 -  AUTOMATION_LOG: ==> Clicked on upload button
+2025-11-14 18:20:14,976  INFO [main] LogUtils:26 -  AUTOMATION_LOG: ==> Clicked on Start Test Button
+2025-11-14 18:20:35,062  INFO [main] LogUtils:26 -  AUTOMATION_LOG: ==> Review Report Checkbox clicked
+2025-11-14 18:20:35,115  INFO [main] LogUtils:26 -  AUTOMATION_LOG: ==> Push To Production button clicked
+2025-11-14 18:20:35,686  INFO [main] LogUtils:26 -  AUTOMATION_LOG: ==> Clicked on comment Text Box
+2025-11-14 18:20:35,734  INFO [main] LogUtils:26 -  AUTOMATION_LOG: ==> Comment Entered
+2025-11-14 18:20:35,791  INFO [main] LogUtils:26 -  AUTOMATION_LOG: ==> Clicked on Upload button
+2025-11-14 18:20:35,822  INFO [main] cluster:71 - Cluster created with settings {hosts=[localhost:27118], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2025-11-14 18:20:35,837  INFO [main] cluster:71 - Cluster description not yet available. Waiting for 30000 ms before timing out
+2025-11-14 18:20:35,882  INFO [cluster-ClusterId{value='6917259b126616415bb5bb53', description='null'}-localhost:27118] connection:71 - Opened connection [connectionId{localValue:1, serverValue:1491}] to localhost:27118
+2025-11-14 18:20:35,906  INFO [cluster-ClusterId{value='6917259b126616415bb5bb53', description='null'}-localhost:27118] cluster:71 - Monitor thread successfully connected to server with description ServerDescription{address=localhost:27118, type=REPLICA_SET_PRIMARY, state=CONNECTED, ok=true, version=ServerVersion{versionList=[8, 0, 6]}, minWireVersion=0, maxWireVersion=25, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=15068708, setName='b2c', canonicalAddress=mongo-b2c-0.mongo-b2c.sanity.svc.cluster.local:27017, hosts=[mongo-b2c-0.mongo-b2c.sanity.svc.cluster.local:27017], passives=[], arbiters=[], primary='mongo-b2c-0.mongo-b2c.sanity.svc.cluster.local:27017', tagSet=TagSet{[]}, electionId=7fffffff00000000000006b0, setVersion=6, lastWriteDate=Fri Nov 14 18:20:24 IST 2025, lastUpdateTimeNanos=114077305616458}
+2025-11-14 18:20:35,953  INFO [main] connection:71 - Opened connection [connectionId{localValue:2, serverValue:1492}] to localhost:27118

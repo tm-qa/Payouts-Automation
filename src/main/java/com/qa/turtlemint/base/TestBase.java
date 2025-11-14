@@ -1,8 +1,8 @@
 package com.qa.turtlemint.base;
 
+
 import com.qa.turtlemint.util.LogUtils;
 import com.qa.turtlemint.util.TestUtil;
-import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.Dimension;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
@@ -38,17 +38,16 @@ public class TestBase {
         String browserName = prop.getProperty("browser");
         LogUtils.info("Browser name: " + browserName);
         if (browserName.equals("chrome")) {
-            //       driver = WebDriverManager.chromedriver().create();
-            //   ChromeOptions options = new ChromeOptions();
             ChromeOptions options = new ChromeOptions();
-            options.addArguments("--remote-allow-origins=*");
-            options.setBrowserVersion("123");
+            options.setBrowserVersion("119");
+//            options.addArguments("--headless=new");
             driver = new ChromeDriver(options);
             options.addArguments("start-maximized"); // open Browser in maximized mode
-            options.addArguments("--incognito");
+            //    options.addArguments("--incognito");
             String osName = System.getProperty("os.name");
             LogUtils.info("osName: " + osName);
             if (osName.toLowerCase().contains("linux")) {
+//					WebDriverManager.chromedriver().setup();
                 options.addArguments("--headless");
                 options.addArguments("--incognito");
                 options.addArguments(("user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
@@ -63,7 +62,7 @@ public class TestBase {
 //				WebDriver driver = new ChromeDriver(options);
 
             }
-             //  driver = new ChromeDriver(options);
+            // driver = new ChromeDriver(options);
 
             Dimension newDimension = new Dimension(1200, 800);
             driver.manage().window().setSize(newDimension);
@@ -77,9 +76,15 @@ public class TestBase {
             driver.manage().timeouts().pageLoadTimeout(TestUtil.Page_load_time, TimeUnit.SECONDS);
             driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(TestUtil.implicit_wait));
 
-            driver.get(prop.getProperty("url"));
-           // driver.get(System.getProperty("url"));
+
+//            driver.get(System.getProperty("url")); // Only for Jenkins Uncomment this line
+//            driver.get(prop.getProperty("localurl"));
+//            System.out.println(driver.getCurrentUrl());
+//            WebCommands.staticSleep(5000);
+            driver.manage().window().maximize();
+            driver.manage().deleteAllCookies();
         }
+
 
     }
 }
