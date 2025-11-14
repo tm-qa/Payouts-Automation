@@ -9,6 +9,7 @@ import org.openqa.selenium.By;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 
+@Test(groups = {"payout"})
 public class PayoutsRuleTest extends TestBase {
 
     ninja ninj;
